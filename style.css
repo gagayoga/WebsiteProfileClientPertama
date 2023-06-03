@@ -1,0 +1,76 @@
+/* Warna-warna */
+/* #A05744 */
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+
+/* Style navbar */
+.container-fluid{
+    width: 90%;
+    margin: auto;
+}
+
+
+/* style navbar */
+.navbar {
+    background-color: #A05744;
+}
+.text-white{
+    font-style: bold;
+    font-weight: 700;
+}
+.nav-link{
+    font-style: bold;
+    font-weight: 450;
+}
+.form-control{
+    width: 20em;
+}
+/* end style */
+
+/* style visi misi */
+h5{
+    color: white;
+    font-weight: 700;
+}
+h3{
+    color: #A05744;
+}
+.conatainer-visi-misi{
+    padding: 20px;
+    margin: auto;
+    width: 90%;
+}
+.vici-misi{
+    margin-top: 50px;
+}
+.container-product{
+    margin-top: 30px;
+}
+/* end style */
+
+/* style untuk button dicard kaligrafi */
+.btn-more{
+    background-color: #A05744;
+    color: white;
+    font-size: 0.95em;
+}
+.btn-more:hover{
+    font-weight: 600;
+    color: #A05744;
+}
+/* end style */
+
+.btn-tab{
+    color: black;
+    background-color: #A05744;
+}
+
+.about-company{
+    margin-top: 75px;
+}
+
+.container-testi{
+    margin-top: 70px;
+}
